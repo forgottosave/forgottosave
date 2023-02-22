@@ -4,7 +4,7 @@ A cute happy sloth, wishing you a happy day :)
 ## About me
 I'm **Timon Ensel**, a computer science student at the **T**echnical **U**niversity of **M**unich.
 
-Mid 2022 I finally found my way into open source projects and love doing so ever since. My current main focus being [Xournal++](https://github.com/xournalpp/xournalpp), the greatest annotator in C++ out there.
+Mid 2022 I finally found my way into open source projects and love contributing to them ever since. My current main focus is [Xournal++](https://github.com/xournalpp/xournalpp), the greatest annotator in C++ out there :)
 
   
 My prgramming language repertoire includes, but is not limited to:
@@ -14,7 +14,7 @@ My prgramming language repertoire includes, but is not limited to:
 - **C++**, my *favorite* of them all
 
 ## Contact me
-Please contact me under my e-mail timon.ensel@tum.de
+Please contact me via e-mail: timon.ensel@tum.de
 
 <!---
 forgottosave/forgottosave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
