@@ -1,6 +1,5 @@
 # Hello there! 👋
-![sloth](https://user-images.githubusercontent.com/88790311/208309816-4c3300f0-1bcc-42f7-b6b0-5364be58c775.jpg)
-A cute happy sloth, wishing you a happy day :)
+
 ## About me
 I'm **Timon Ensel**, a computer science student at the **T**echnical **U**niversity of **M**unich.
 
