@@ -7,10 +7,12 @@ Mid 2022 I finally found my way into open source projects and love contributing 
 
   
 My prgramming language repertoire includes, but is not limited to:
-- **Java**, my first ever language
-- **Bash**, because I love Linux and love pain 
+- **Java**, the first language I learned
+- **Bash**, because I love Linux 
 - **C**, because you just need it
 - **C++**, my *favorite* of them all
+
+Furthermore I have experience in Assembler, SQL, OCaml, Python, Javascript, HTML & CSS (in descending order of my knowledge about them)
 
 ## Contact me
 Please contact me via e-mail: timon.ensel@tum.de
