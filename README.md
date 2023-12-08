@@ -10,7 +10,7 @@ My focus and expertise concerning programming languages lies on **C** and **C++*
 In my free time I'm currently buzy learning about Cloud Computing, mainly using AWS and AWS-educate for some example/test projects. Maybe later I will publish my repository containing that knowledge and projects.
 
 #### My Repos
-My public repositories mostly contain simple [scripts](https://github.com/forgottosave/svg_to_m3u) or [games](https://github.com/forgottosave/snash) programmed in bash. Appart from that I currently have a small [app](https://github.com/forgottosave/LichessWebApp) focussed on accessing [lichess](https://github.com/lichess-org) via the android browser.
+My public repositories mostly contain some [scripts](https://github.com/forgottosave/obsidian-link-converter) or [games](https://github.com/forgottosave/snash) programmed in bash. Appart from that I currently have a small [app](https://github.com/forgottosave/LichessWebApp) focussed on accessing [lichess](https://github.com/lichess-org) via the android browser.
 
 ## Contact me
 Please contact me via e-mail: timon.ensel@tum.de
