@@ -7,7 +7,7 @@
                         %0AContact%20Mail%20through%20GitHub"><img src="https://img.shields.io/badge/-timon.ensel%40tum.de-red?logo=mail.ru&logoColor=white"></img></a>
   <a href="https://timon-ensel.de"><img src="https://img.shields.io/badge/-timon--ensel.de-orange?logo=onnx&logoColor=white"></img></a>
   <a href="https://github.com/forgottosave/"><img src="https://img.shields.io/badge/-forgottosave-gray?logo=github&logoColor=white"></img></a>
-  <a href="[https://www.linkedin.com/in/timon-ensel/](https://open.spotify.com/user/31yuxsvhatkaxdjcbjozsuogal4e?si=zp2niVlYSWqfn_ZSPCmkGg)"><img src="https://img.shields.io/badge/Tvlp_Hpe-1ED760?logo=spotify&logoColor=white"></img></a>
+  <a href="https://open.spotify.com/user/31yuxsvhatkaxdjcbjozsuogal4e?si=zp2niVlYSWqfn_ZSPCmkGg"><img src="https://img.shields.io/badge/Tvlp_Hpe-1ED760?logo=spotify&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/timon-ensel/"><img src="https://img.shields.io/badge/-timon--ensel-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timon-ensel/"></img></a>
 </br>
 </p>
