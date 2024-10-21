@@ -12,7 +12,7 @@
 </br>
 </p>
 
-Hello there! I'm [**Timon Ensel**](https://timon-ensel.de), a computer science student at the [**T**echnical **U**niversity of **M**unich](https://www.tum.de/).
+Hello there! I'm **Timon Ensel**, a computer science student at the **T**echnical **U**niversity of **M**unich ([TUM](https://www.tum.de/)).
 Mid 2022 I finally found my way into open source projects and love contributing to them ever since :)
 
 #### Interests & Skills
@@ -25,14 +25,12 @@ Mid 2022 I finally found my way into open source projects and love contributing 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
-I love software development & engineering, with my focus and expertise concerning programming languages being mainly **C++**, but also including C, bash, python, Java, and many more.
+In 2024 I finished my Bachelor's Thesis at the [TUM Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), together with [AP Sensing](https://www.apsensing.com/). I developed a **T**erminal **U**ser **I**nterface (TUI) for OSTree in **C++**, which, of course, is open source and can be found in the repo [APSensing/ostree-tui](https://github.com/AP-Sensing/ostree-tui). I am still actively developing this tool.
 
-In 2024 I finished my Bachelor's Thesis at the TUM Chair of Connected Mobility, together with [AP Sensing](https://www.apsensing.com/). I developed a **T**erminal **U**ser **I**nterface (TUI) for OSTree, which, of course, is open source and can be found in the repo [APSensing/ostree-tui](https://github.com/AP-Sensing/ostree-tui).
-
-I am currently continuing my studies at TUM, aiming for a Master degree in Informatics.
+At the moment, I am continuing my studies at TUM, aiming for a Master degree in Informatics.
 
 #### My Repos
-My public repositories mostly contain some [scripts](https://github.com/forgottosave/obsidian-link-converter) or [games](https://github.com/forgottosave/snash) programmed in bash. Appart from that I currently maintain a small [app](https://github.com/forgottosave/LichessWebApp) focussed on accessing [lichess](https://github.com/lichess-org) via the android browser.
+I currently maintain a small [app](https://github.com/forgottosave/LichessWebApp) focussed on accessing [lichess](https://github.com/lichess-org) via the android browser. Appart from that, my public repositories mostly contain some [scripts](https://github.com/forgottosave/obsidian-link-converter) or [games](https://github.com/forgottosave/snash) programmed in bash. Feel free to explore :)
 
 <p align="center"> 
   Visitors<br>
